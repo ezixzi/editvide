@@ -1,0 +1,8 @@
+{
+  "name": "Animasi Halus",
+  "version": 1,
+  "video": {"width": 1080, "height": 1920, "fps": 30, "pixel_format": "yuv420p", "color": "bt709"},
+  "caption": {"center_x": 491, "baseline_y": 1140, "left": 130, "right": 852, "top": 310, "bottom": 1210, "font_px": 49, "line_px": 55, "word_fade_in_s": 0.143, "phrase_fade_out_s": 0.114, "primary": "#fff2db", "accent": "#b6ff3b"},
+  "audio": {"sample_rate": 48000, "loudness_lufs": -14, "true_peak_limit_dbtp": -1.0, "music_below_voice_db": 22, "sfx_below_voice_db": 30},
+  "render": {"depth_focus": true, "review_w": 540, "review_h": 960}
+}

@@ -4,6 +4,10 @@ Start here. This is the complete operating guide and agent contract for OpenMont
 
 For architecture, key files, and conventions see [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
 
+## Preset Animasi Halus
+
+Untuk permintaan Animasi Halus dan kelanjutan 3D Lah Kok Bisa dengan gaya tersebut, gunakan [preset Animasi Halus](presets/animasi-halus/README.md). Pakai rig dan pemeriksaan yang sama, lalu buat adegan dari naskah dan VO episode. Jalur render lokal 3D pada preset ini dipakai untuk komposisi Animasi Halus. Lakukan uji kontak dan review sebelum ekspor 1080 × 1920, lalu kirim hasil ke Dropbox `/Video Output`.
+
 ## First Interaction — Onboarding
 
 When the user's first message is vague, exploratory, or asks what you can do ("make me a video", "what can you do?", "help me create something", "I want to make content"), read the onboarding skill **before** doing anything else:
